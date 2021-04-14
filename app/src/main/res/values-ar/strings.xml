@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كل الاخبار</string>
+    <string name="breaking_news">أخبار عاجلة</string>
+    <string name="saved_news">الأخبار المحفوظة</string>
+    <string name="search_news">بحث عن الأخبار</string>
+    <string name="search">بحث....</string>
+    <string name="save">تم حفظ المقال بنجاح</string>
+    <string name="delete">تم حذف المقالة بنجاح</string>
+    <string name="Undo">الغاء</string>
+
+
+</resources>
