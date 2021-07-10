@@ -1,7 +1,7 @@
 # NewsApp
 All news in one app
 
-photo from page
+screenshot
 
 ![photo_2021-04-17_19-21-06](https://user-images.githubusercontent.com/60829984/125161311-e2fa0900-e181-11eb-951f-bbf82677869b.jpg)
 
